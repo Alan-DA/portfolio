@@ -30,6 +30,7 @@
 </p>
 
 ### **Apple Net Zero Dashboard**  
+<a href="https://github.com/alanmaulanaa/applenetzero"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://public.tableau.com/app/profile/maulana.mubarak.ahmad/viz/AppleDashboard_16971175073930/AppleDashboard?publish=yes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a>
 <details>
   <summary>📃 Summary</summary>
@@ -37,7 +38,8 @@
 
 
 ### **KPMG Virtual Internship**  
-<p><a href="https://public.tableau.com/app/profile/maulana.mubarak.ahmad/viz/KPMGVirtualInternshipDashboard_16965160745940/KPMGVirtualInternshipDashboard"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a></p>
+<p><a href="https://github.com/alanmaulanaa/KPMG-Virtual-Internship"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://public.tableau.com/app/profile/maulana.mubarak.ahmad/viz/KPMGVirtualInternshipDashboard_16965160745940/KPMGVirtualInternshipDashboard"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a></p>
 <details>
   <summary>📃 Summary</summary>
 </details><br>
@@ -50,13 +52,15 @@
 
 
 ### **Teleco Customer Churn**  
-<a href="https://github.com/alanmaulanaa/telecom-customer-churn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://medium.com/@alanmaulana44/googles-data-analytics-case-study-8ac3fe481882"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />  
+<a href="https://github.com/alanmaulanaa/telecom-customer-churn"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://medium.com/@alanmaulana44/googles-data-analytics-case-study-8ac3fe481882"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />  
 <details>
   <summary>📃 Summary</summary>
 </details><br>
 
 ### **Facilities and Health Insurance Dashboard**  
-<p><a href="https://github.com/alanmaulanaa/Facility-Health-Insurance"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://public.tableau.com/app/profile/maulana.mubarak.ahmad/viz/Dashboard_16758764911660/MainDashboard"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a></p>
+<p><a href="https://github.com/alanmaulanaa/Facility-Health-Insurance"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://public.tableau.com/app/profile/maulana.mubarak.ahmad/viz/Dashboard_16758764911660/MainDashboard"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /></a></p>
 <details>
   <summary>📃 Summary</summary>
 </details><br>

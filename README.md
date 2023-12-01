@@ -6,7 +6,7 @@
 ## Education 
 - **BACHELOR'S DEGREE \| STMIK YADIKA BANGIL (_August 2017_)**  
 
-### Work Experience  
+## Work Experience  
 - **ERP ASSISTANT \| PT AKT INDONESIA (_June 2019 - January 2023_)**  
 - **DIGITAL MARKETING \| FREELANCE VARIOUS PROJECT (_July 2017 - August 2019_)**  
 <p>

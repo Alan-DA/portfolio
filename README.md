@@ -12,19 +12,11 @@
   </p>
   
 
-### Technical Skills:  
+## Technical Skills:  
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-
-### Education  
-- **BACHELOR'S DEGREE \| STMIK YADIKA BANGIL (_August 2017_)** 
-
-### Work Experience  
-- **ERP ASSISTANT \| PT AKT INDONESIA (_June 2019 - January 2023_)**  
-- **DIGITAL MARKETING \| FREELANCE VARIOUS PROJECT (_July 2017 - August 2019_)**  
-
 
 ## Project
 

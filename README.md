@@ -20,7 +20,7 @@
 
 ## Project
 
-### **California Bikesharing**  
+### **Bike-sharing Rental**  
 <a href="https://github.com/alanmaulanaa/bikeshare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://bikeshare-dicoding.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /></a>
 <details>
@@ -66,6 +66,9 @@
 </details><br>
 
 [Link to another page](./project1.html).
+[Link to another page](./project2.html).
+[Link to another page](./project3.html).
+[Link to another page](./project4.html).
 
 
 

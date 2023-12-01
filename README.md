@@ -65,6 +65,8 @@
   <summary>📃 Summary</summary>
 </details><br>
 
+[Link to another page](./project1.html).
+
 
 
 

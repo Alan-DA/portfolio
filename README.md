@@ -23,6 +23,16 @@
 
 ## Project
 
+### **Time-Series Analysis Project with ARIMA (CRISP-DM)**  
+<a href="https://medium.com/@alanmaulana44/time-series-analysis-project-with-arima-crisp-dm-part-1-96c4ed4921e7"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://colab.research.google.com/drive/1RC6i6kQDNrv5Df19kJgcB1rRjGIKrElA?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<details>
+  <summary>📃 Summary</summary>
+In this project I'm using ARIMA to forecast Futures Data related to corn, oat, and other grains. Analyzing this dataset and find insights into price forecasting.
+This datasets provide distribution of various kind of price; (Open, Close, High, Low) and even volume. Time series analysis also provide insights into seasonal trends and price forecasts. But I'm also applying the CRISP-DM method into this project to see how should handling a data project in real work.</details><br>
+<p>
+</p>
+
 ### **Bike-sharing Rental**  
 <a href="https://github.com/alanmaulanaa/bikeshare"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://bikeshare-dicoding.streamlit.app/"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /></a>

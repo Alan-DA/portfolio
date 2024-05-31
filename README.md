@@ -30,6 +30,7 @@
   <summary>📃 Summary</summary>
 In this project I'm using ARIMA to forecast Futures Data related to corn, oat, and other grains. Analyzing this dataset and find insights into price forecasting.
 This datasets provide distribution of various kind of price; (Open, Close, High, Low) and even volume.
+  <p></p>
   <p>Time series analysis also provide insights into seasonal trends and price forecasts. But I'm also applying the CRISP-DM method into this project to see how should handling a data project in real work.</p></details><br>
 <p>
 </p>

@@ -28,7 +28,7 @@
 <a href="https://colab.research.google.com/drive/1RC6i6kQDNrv5Df19kJgcB1rRjGIKrElA?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 <details>
   <summary>📃 Summary</summary>
-  <p></p>
+  <br>
   <p>In this project I'm using ARIMA to forecast Futures Data related to corn, oat, and other grains. Analyzing this dataset and find insights into price forecasting.
 This datasets provide distribution of various kind of price; (Open, Close, High, Low) and even volume.
   </p>
